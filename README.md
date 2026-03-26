@@ -10,7 +10,7 @@ This project demonstrates fetching data from an API, displaying it in **Table** 
 -  **Grid View** with responsive cards
 -  **Pale Pink / Purple Theme** styled with Tailwind CSS
 -  **User Detail Page** with full profile info
--  **Back ** button for easy navigation
+-  **Back** button for easy navigation
 -  Interactive hover effects for rows and cards
 
 
